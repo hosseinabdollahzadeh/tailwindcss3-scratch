@@ -1,0 +1,2 @@
+npx tailwindcss init
+npx tailwindcss -i ./src/tailwind.css -o ./dist/style.css -w
